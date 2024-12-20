@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app. This project utilizes [Shadcn/ui](https://ui.shadcn.com/) for UI components, [Zod](https://zod.dev/) for schema validation, and [react-hook-form](https://react-hook-form.com/) for form handling.
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app. This project utilizes [Shadcn/ui](https://ui.shadcn.com/) for UI components, [Zod](https://zod.dev/) for schema validation, and [react-hook-form](https://react-hook-form.com/) for form handling. This project built using React19 and NextJs15.
 
 ## Getting Started
 1. Clone repo:
