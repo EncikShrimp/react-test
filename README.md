@@ -31,3 +31,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+As for bonus task 5,
+Since the design is fairly simple, theres not much responsive design that I need to implement. Below are some of the things that are responsive:
+1. The main navbar are responsive based on the user screen width. It changes to sheet component when its in mobile size.
+2. The text in About and Home page are reduced to smaller size according to the screen width.
+
+Like I said not much needed to be responsive as the design is fairly simple not much adjustment needed.
